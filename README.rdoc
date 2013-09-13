@@ -1,0 +1,10 @@
+== README
+
+rails r bin/instagram_sweeper.rb fuellt die db... halt so alle 10 minuten ausfuehren...
+in der ersten zeile steht ein array... da halt weitere lat/lng paare reinschreiben
+
+/admin/instagram_entries user: admin@example.com/password hat dann die eintraege durchsuchbar und so...
+
+
+
+
